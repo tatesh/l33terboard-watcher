@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "type": "module",
-  "dependencies": {},
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  },
   "devDependencies": {
     "binance-leaderboard-listener": "^1.0.1"
   }
